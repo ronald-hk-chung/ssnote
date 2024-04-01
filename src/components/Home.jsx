@@ -1,10 +1,11 @@
 import Container from "react-bootstrap/Container";
+import image from './assets/ssnote_study.jpg'
 
 function Home() {
   return (
     <Container>
       <h1 className="h2">Learn PyTorch by Self Studying</h1>
-      <img src="/ssnote_study.JPG" className="img-fluid"></img>
+      <img src={image} className="img-fluid"></img>
       <br />
       <br />
       <h3 className="h4">What is Self Study Note?</h3>

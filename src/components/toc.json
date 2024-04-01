@@ -1,0 +1,55 @@
+{
+    "home": {
+        "name": "Home",
+        "href": "#/",
+        "github": "#",
+        "colab": "#",
+        "notebook": []
+    },
+    "basics_of_neural_network": {
+        "name": "Basic of Neural Network",
+        "href": "#/basics_of_neural_network",
+        "github": "#",
+        "colab": "#",
+        "description": "This section covers the basics of Neural Network - the building blocks for Deep Learning. This will includes the mathematics behind neural network optimization, implimentation in Numpy and more importantly PyTorch for simple linear and logistics regression.",
+        "notebook": [
+            {
+                "name": "Understanding Gradient Descent",
+                "href": "#/basics_of_neural_network/understanding_gradient_descent.ipynb",
+                "description": "Solving a simple linear regression problem through Gradient descent which is an interative technique commonly used in ML to find the best possible set of parameters for a given model and data points and loss function"
+            }
+        ]
+    },
+    "computer-vision": {
+        "name": "Computer Vision",
+        "href": "#/computer-vision",
+        "github": "#",
+        "colab": "#",
+        "notebook": [
+            {
+                "name": "Selective Search Algorithm",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
+                "href": "#/computer-vision/selective_search.ipynb"
+            },
+            {
+                "name": "Fast RCNN",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/fast_rcnn.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/fast_rcnn.ipynb",
+                "href": "#/computer-vision/fast_rcnn.ipynb"
+            },
+            {
+                "name": "Faster RCNN",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/faster_rcnn.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/faster_rcnn.ipynb",
+                "href": "#/computer-vision/faster_rcnn.ipynb"
+            },
+            {
+                "name": "Single Shot Detector",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/ssd.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/ssd.ipynb",
+                "href": "#/computer-vision/ssd.ipynb"
+            }
+        ]
+    }
+}

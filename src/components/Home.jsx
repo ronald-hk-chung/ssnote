@@ -1,5 +1,5 @@
 import Container from "react-bootstrap/Container";
-import image from './assets/ssnote_study.jpg'
+import image from "./assets/ssnote_study.jpg";
 
 function Home() {
   return (
@@ -11,27 +11,32 @@ function Home() {
       <h3 className="h4">What is Self Study Note?</h3>
       <p>Well, it is a collection of notes collected through self studying??</p>
       <p>
-        Self-Study Note [SSNote] is a self-study netbook that contains Jupiter
-        notebooks for self-studying in PyTorch deep learning model. SSNote
-        covers a wide variety of subjects including fundamentals in Python,
-        PyTorch and specialization fields such as Computer Vision and Large
-        Language Model that I have studied throughout my journey in picking up
-        Machine Learning.
+        Self-Study-Note <b>SSNote</b> is a collection of notebook that I have
+        created throughout my self-study journet for Deep Learning in PyTorch.
+        While the main purpose of the notebook is to self-enforce for my
+        deep-learning process, It also aims to provide (or at least guide)
+        enthusiast like myself on the subjects of PyTorch Deep Learning which
+        covers a number of subjects including Computer Vision, Large Language
+        Model as well as Generative AI from multiple resources that I have
+        studied.
       </p>
       <br />
       <h3 className="h4">How to use this book?</h3>
       <p>
-        Setup is not required as all notebook included in the netbook are
-        uploaded in Github and can be used with Google Colab that allows you to
-        write and execute Python in your browser with zero configuration
-        required where free GPUs are accessible.
+        Setup is not required as all notebooks included in SSNote are uploaded
+        in Github and can be used with Google Colab. I have also created a
+        light-weight framework for the self-study-note{" "}
+        <a href="https://ronald-hk-chung.github.io/sstorch/" target="_blank">
+          <b>SSTorch</b>
+        </a>{" "}
+        to enhance the deep training process.
       </p>
       <br />
       <h3 className="h4">Where are the materials coming from?</h3>
       <p>
-        Resources in this netbook are mainly from multiple reference books under
-        Reference Session and Online materials that will be referenced
-        throughout individual notebooks.
+        There are many resources that is being included in SSNote. References
+        would be made carefully throughout the materials. I have also included a
+        list of most useful resources in the Resources Page.
       </p>
       <br />
       <h3 className="h4">Who am I?</h3>
@@ -50,16 +55,15 @@ function Home() {
       <h3 className="h4">How to contact me?</h3>
       <p>
         Feel Free to contact me on below: <br />
-        email: <a href="mailto:hoi.k.chung@gmail.com">
-          hoi.k.chung@gmail.com
-        </a>{" "}
+        Email: {"\t"}{" "}
+        <a href="mailto:hoi.k.chung@gmail.com">hoi.k.chung@gmail.com</a>
         <br />
-        Or find me through{" "}
+        Linkined:
         <a
           href="https://www.linkedin.com/in/hoi-kei-ronald-chung-41820045/"
           target="_blank"
         >
-          Linkedin
+          {"\t"}linkedin.com/in/hoi-kei-ronald-chung-41820045
         </a>
       </p>
     </Container>

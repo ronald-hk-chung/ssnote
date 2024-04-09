@@ -11,12 +11,24 @@
         "href": "#/basics_of_neural_network",
         "github": "#",
         "colab": "#",
-        "description": "This section covers the basics of Neural Network - the building blocks for Deep Learning. This will includes the mathematics behind neural network optimization, implimentation in Numpy and more importantly PyTorch for simple linear and logistics regression.",
+        "description": [
+            "This section covers the basics of Neural Network - the building blocks for Deep Learning.",
+            "This will includes the mathematics behind neural network optimization, implimentation in Numpy and more importantly PyTorch for simple linear and logistics regression."
+        ],
         "notebook": [
             {
                 "name": "Understanding Gradient Descent",
-                "href": "#/basics_of_neural_network/understanding_gradient_descent.ipynb",
-                "description": "Solving a simple linear regression problem through Gradient descent which is an interative technique commonly used in ML to find the best possible set of parameters for a given model and data points and loss function"
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
+                "href": "#/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
+                "description": "Introduction to Gradient Descent which is an iterative process for finding a local minimum of a differentiable function"
+            },
+            {
+                "name": "Introduction to Neural Network",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
+                "href": "#/basics_of_neural_network/introduction_to_nn.ipynb",
+                "description": "Introduction to Basics Mechanics of Neural Network and PyTorch Implimentation"
             }
         ]
     },
@@ -25,6 +37,7 @@
         "href": "#/computer-vision",
         "github": "#",
         "colab": "#",
+        "description": [],
         "notebook": [
             {
                 "name": "Selective Search Algorithm",

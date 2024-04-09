@@ -35,13 +35,13 @@ function DocNav({ showDocNav, setShowDocNav }) {
     <>
       <Button
         className="btn-light"
-        style={{ width: "55px" }}
+        style={{ width: "55px", height: "45px" }}
         ref={target}
         onClick={setNav}
       >
         <i className="bi bi-book"></i>
       </Button>
-      <Overlay target={target.current} show={showDocNav} placement="right">
+      <Overlay target={target.current} show={showDocNav} placement="top">
         <Popover className="popover">
           <Popover.Header>Notebook Content</Popover.Header>
           <Popover.Body>

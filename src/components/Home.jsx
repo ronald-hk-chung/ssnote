@@ -12,24 +12,17 @@ function Home() {
       <p>Well, it is a collection of notes collected through self studying??</p>
       <p>
         Self-Study-Note <b>SSNote</b> is a collection of notebook that I have
-        created throughout my self-study journet for Deep Learning in PyTorch.
-        While the main purpose of the notebook is to self-enforce for my
-        deep-learning process, It also aims to provide (or at least guide)
-        enthusiast like myself on the subjects of PyTorch Deep Learning which
-        covers a number of subjects including Computer Vision, Large Language
-        Model as well as Generative AI from multiple resources that I have
-        studied.
+        created throughout my self-study journey on Machine Learning. While the
+        main purpose of the notebook is to self-enforce for my deep-learning
+        process, which covers a number of subjects including Computer Vision,
+        Large Language Model as well as Generative AI from multiple resources
+        that I have studied.
       </p>
       <br />
       <h3 className="h4">How to use this book?</h3>
       <p>
         Setup is not required as all notebooks included in SSNote are uploaded
-        in Github and can be used with Google Colab. I have also created a
-        light-weight framework for the self-study-note{" "}
-        <a href="https://ronald-hk-chung.github.io/sstorch/" target="_blank">
-          <b>SSTorch</b>
-        </a>{" "}
-        to enhance the deep training process.
+        in Github and can be used with Google Colab.
       </p>
       <br />
       <h3 className="h4">Where are the materials coming from?</h3>

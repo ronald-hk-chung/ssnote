@@ -10,9 +10,11 @@ function MainNav({ setColab, setGithub, contentDict}) {
   const [showNav, setShowNav] = useState(false);
 
   const animationSequence = [
-    "Welcome to Self Study Notebook",
+    "Welcome to Self Study Note",
     3000,
-    "Focusing on Deep-Learning with PyTorch",
+    "Focusing on Machine Learning",
+    3000,
+    "with PyTorch and Scikit-Learn",
     3000,
     "Authored by Ronald Chung",
     3000,

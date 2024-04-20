@@ -13,7 +13,8 @@
         "colab": "#",
         "description": [
             "This section covers the basics of Neural Network - the building blocks for Deep Learning.",
-            "This will includes the mathematics behind neural network optimization, implimentation in Numpy and more importantly PyTorch for simple linear and logistics regression."
+            "This will includes the mathematics behind neural network optimization with PyTorch Implimentation",
+            "We will start from understanding Gradient Descent, resolving Linear Regression and Classification Problem by going through some classic Deep Learning Problems"
         ],
         "notebook": [
             {
@@ -21,14 +22,28 @@
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
                 "href": "#/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
-                "description": "Introduction to Gradient Descent which is an iterative process for finding a local minimum of a differentiable function"
+                "description": "Gradient Descent is an iterative process for finding a local minimum of a differentiable function. This notebook provide a basic understanding of gradient descent algorith and the implimentation in PyTorch through optimizer"
             },
             {
                 "name": "Introduction to Neural Network",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
                 "href": "#/basics_of_neural_network/introduction_to_nn.ipynb",
-                "description": "Introduction to Basics Mechanics of Neural Network and PyTorch Implimentation"
+                "description": "Introduction to basic mathematics behind modern day Neural Network. This will cover basic perceptron up to multi-layer neural network with PyTorch implimentation"
+            },
+            {
+                "name": "Introduction to PyTorch Workflow",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
+                "href": "#/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
+                "description": "Introduction to Basics PyTorch Workflow with SSTLearner"
+            },
+            {
+                "name": "Classification with Neural Network",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/classification_with_nn.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/classification_with_nn.ipynb",
+                "href": "#/basics_of_neural_network/classification_with_nn.ipynb",
+                "description": "Neural Network classification model and a comparison to other ML classification algorithm"
             }
         ]
     },

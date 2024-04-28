@@ -12,9 +12,12 @@
         "github": "#",
         "colab": "#",
         "description": [
-            "This section covers the basics of Neural Network - the building blocks for Deep Learning.",
-            "This will includes the mathematics behind neural network optimization with PyTorch Implimentation",
-            "We will start from understanding Gradient Descent, resolving Linear Regression and Classification Problem by going through some classic Deep Learning Problems"
+            "Basics of Neural Network section covers the mathematics and mechanics of Feed Forward Neural Network - the building blocks for Deep Learning.",
+            "Mission Statement :",
+            "1. Demonstrate the mathematics and mechanics behind neural network and gradient descent",
+            "2. Comparison between Traditional ML and Neural Network",
+            "3. Solving classic classification problem with NN approach",
+            "4. Building a basic PyTorch Trainer/Learner using Python classes with basic PyTorch training workflow"
         ],
         "notebook": [
             {
@@ -22,21 +25,21 @@
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
                 "href": "#/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
-                "description": "Gradient Descent is an iterative process for finding a local minimum of a differentiable function. This notebook provide a basic understanding of gradient descent algorith and the implimentation in PyTorch through optimizer"
+                "description": "Gradient Descent is an iterative machine learning technique on optimization of neural network for ML problem. This note book contains basic steps for gradient descent to resolve a simple linear regression problem using PyTorch"
             },
             {
                 "name": "Introduction to Neural Network",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
                 "href": "#/basics_of_neural_network/introduction_to_nn.ipynb",
-                "description": "Introduction to basic mathematics behind modern day Neural Network. This will cover basic perceptron up to multi-layer neural network with PyTorch implimentation"
+                "description": "PyTorch implimentation from basic percentron to multi-layer feed-forward neural network with non-linear activation functions"
             },
             {
                 "name": "Introduction to PyTorch Workflow",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "href": "#/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
-                "description": "Introduction to Basics PyTorch Workflow with SSTLearner"
+                "description": "Simplified PyTorch workflow for ML training with Python class building for training/validation steps"
             },
             {
                 "name": "Classification with Neural Network",
@@ -47,13 +50,34 @@
             }
         ]
     },
-    "computer-vision": {
+    "computer_vision": {
         "name": "Computer Vision",
-        "href": "#/computer-vision",
+        "href": "#/computer_vision",
         "github": "#",
         "colab": "#",
-        "description": [],
+        "description": [
+            "Computer Vision section covers various CV applications and techniques",
+            "Mission Statement :",
+            "1. Building and understanding simple convsolutional neural network from scratch to resolve classic computer vision dataset",
+            "2. Understanding and Training of various modern computer vision architecture",
+            "3. Using Transfer Learning Technique for custom dataset",
+            "4. Understanding Object Detection technique by going through RCNN family and SSD"
+        ],
         "notebook": [
+            {
+                "name": "Neural Network on MNIST",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/nn_on_mnist.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/nn_on_mnist.ipynb",
+                "href": "#/computer_vision/nn_on_mnist.ipynb",
+                "description": "Building a simple convolutional neural network for solving MNIST dataset classification with 99% accuracy"
+            },
+            {
+                "name": "LeNet-5 on EMNIST",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/lenet5_on_emnist.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/lenet5_on_emnist.ipynb",
+                "href": "#/computer_vision/lenet5_on_emnist.ipynb",
+                "description": "LeNet-5 on EMNIST and visualising the feature maps through hooks"
+            },
             {
                 "name": "Selective Search Algorithm",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",

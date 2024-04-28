@@ -36,8 +36,6 @@ function Notebook({ folder, file, setShowDocNav }) {
         ipynb={data}
         syntaxTheme={"ghcolors"}
         language={"python"}
-        // seqAsExecutionCount={false}
-        showLineNumbers={false}
       />
     </>
   );

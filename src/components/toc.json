@@ -28,18 +28,18 @@
                 "description": "Gradient Descent is an iterative machine learning technique on optimization of neural network for ML problem. This note book contains basic steps for gradient descent to resolve a simple linear regression problem using PyTorch"
             },
             {
-                "name": "Introduction to Neural Network",
-                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
-                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
-                "href": "#/basics_of_neural_network/introduction_to_nn.ipynb",
-                "description": "PyTorch implimentation from basic percentron to multi-layer feed-forward neural network with non-linear activation functions"
-            },
-            {
                 "name": "Introduction to PyTorch Workflow",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "href": "#/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "description": "Simplified PyTorch workflow for ML training with Python class building for training/validation steps"
+            },
+            {
+                "name": "Introduction to Neural Network",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
+                "href": "#/basics_of_neural_network/introduction_to_nn.ipynb",
+                "description": "A brief introduction from Early Perceptron model to Modern day Multi-layer neural network with non-linear activation function"
             },
             {
                 "name": "Classification with Neural Network",

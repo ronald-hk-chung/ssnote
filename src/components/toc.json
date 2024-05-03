@@ -14,7 +14,7 @@
         "description": [
             "Basics of Neural Network section covers the mathematics and mechanics of Feed Forward Neural Network - the building blocks for Deep Learning.",
             "Mission Statement :",
-            "1. Demonstrate the mathematics and mechanics behind neural network and gradient descent",
+            "1. Demonstrate the mathematics and mechanics behind neural network training",
             "2. Comparison between Traditional ML and Neural Network",
             "3. Solving classic classification problem with NN approach",
             "4. Building a basic PyTorch Trainer/Learner using Python classes with basic PyTorch training workflow"
@@ -25,7 +25,7 @@
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
                 "href": "#/basics_of_neural_network/understanding_stochastic_gradient_descent.ipynb",
-                "description": "Gradient Descent is an iterative machine learning technique on optimization of neural network for ML problem. This note book contains basic steps for gradient descent to resolve a simple linear regression problem using PyTorch"
+                "description": "Basic steps for gradient descent to resolve a simple linear regression problem using PyTorch"
             },
             {
                 "name": "Introduction to PyTorch Workflow",
@@ -33,6 +33,13 @@
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "href": "#/basics_of_neural_network/introduction_to_pytorch_workflow.ipynb",
                 "description": "Simplified PyTorch workflow for ML training with Python class building for training/validation steps"
+            },
+            {
+                "name": "Deepdive into Learning Rate and Optimizer",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/lr_and_optimizer.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/lr_and_optimizer.ipynb",
+                "href": "#/basics_of_neural_network/lr_and_optimizer.ipynb",
+                "description": "A deepdive into cyclical and adaptive learning rates for model training"
             },
             {
                 "name": "Introduction to Neural Network",

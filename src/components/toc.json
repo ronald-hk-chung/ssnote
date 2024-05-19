@@ -42,13 +42,6 @@
                 "description": "A deepdive into cyclical and adaptive learning rates for model training"
             },
             {
-                "name": "Introduction to Neural Network",
-                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
-                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/introduction_to_nn.ipynb",
-                "href": "#/basics_of_neural_network/introduction_to_nn.ipynb",
-                "description": "A brief introduction from Early Perceptron model to Modern day Multi-layer neural network with non-linear activation function"
-            },
-            {
                 "name": "Classification with Neural Network",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/classification_with_nn.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/basics_of_neural_network/classification_with_nn.ipynb",
@@ -65,7 +58,7 @@
         "description": [
             "Computer Vision section covers various CV applications and techniques",
             "Mission Statement :",
-            "1. Building and understanding simple convsolutional neural network from scratch to resolve classic computer vision dataset",
+            "1. Building and understanding simple convolutional neural network from scratch to resolve classic computer vision dataset",
             "2. Understanding and Training of various modern computer vision architecture",
             "3. Using Transfer Learning Technique for custom dataset",
             "4. Understanding Object Detection technique by going through RCNN family and SSD"
@@ -84,6 +77,34 @@
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/lenet5_on_emnist.ipynb",
                 "href": "#/computer_vision/lenet5_on_emnist.ipynb",
                 "description": "LeNet-5 on EMNIST and visualising the feature maps through hooks"
+            },
+            {
+                "name": "Building AlexNet for Cifar10",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/alexnet_cifar10.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/alexnet_cifar10.ipynb",
+                "href": "#/computer_vision/alexnet_cifar10.ipynb",
+                "description": "Building AlexNet from Scratch for Cifar-10 classification"
+            },
+            {
+                "name": "Training AlexNet for Cifar100",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/alexnet_cifar100.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/alexnet_cifar100.ipynb",
+                "href": "#/computer_vision/alexnet_cifar100.ipynb",
+                "description": "Using AlexNet to train on Cifar-100 classification"
+            },
+            {
+                "name": "Training VGG Net on CIFAR100",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/vgg_cifar100.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/vgg_cifar100.ipynb",
+                "href": "#/computer_vision/vgg_cifar100.ipynb",
+                "description": "Buidling VGG from scratch and train on CIFAR-100 classification"
+            },
+            {
+                "name": "Training ResNet on CIFAR100",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/resnet_cifar100.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/resnet_cifar100.ipynb",
+                "href": "#/computer_vision/resnet_cifar100.ipynb",
+                "description": "Buidling ResNet from scratch and train on CIFAR-100 classification"
             },
             {
                 "name": "Selective Search Algorithm",

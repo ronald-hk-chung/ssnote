@@ -114,6 +114,13 @@
                 "description": "Buidling GoogleNet from scratch and train on CIFAR-100 classification"
             },
             {
+                "name": "Training InceptionV3 on CIFAR100",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/inception_cifar100.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/inception_cifar100.ipynb",
+                "href": "#/computer_vision/inception_cifar100.ipynb",
+                "description": "Buidling InceptionV3 from scratch and train on CIFAR-100 classification"
+            },
+            {
                 "name": "Selective Search Algorithm",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",

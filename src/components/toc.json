@@ -121,6 +121,13 @@
                 "description": "Buidling InceptionV3 from scratch and train on CIFAR-100 classification"
             },
             {
+                "name": "Introduction to Transfer Learning",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_cats_classification.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_cats_classification.ipynb",
+                "href": "#/computer_vision/dog_cats_classification.ipynb",
+                "description": "Building a simple transfer learning for Cats/Dogs Classification"
+            },
+            {
                 "name": "Selective Search Algorithm",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",

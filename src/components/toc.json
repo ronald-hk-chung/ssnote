@@ -128,6 +128,13 @@
                 "description": "Building a simple transfer learning for Cats/Dogs Classification"
             },
             {
+                "name": "Dog Breed Identification with Transfer Learning",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_breed_identification.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_breed_identification.ipynb",
+                "href": "#/computer_vision/dog_breed_identification.ipynb",
+                "description": "Building a simple transfer learning for Dog Breed Identification"
+            },
+            {
                 "name": "Selective Search Algorithm",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",

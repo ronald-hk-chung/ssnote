@@ -135,6 +135,13 @@
                 "description": "Building a simple transfer learning for Dog Breed Identification"
             },
             {
+                "name": "UTK Face Detection",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/utk_face_detection.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/utk_face_detection.ipynb",
+                "href": "#/computer_vision/utk_face_detection.ipynb",
+                "description": "Age, Gender and Race detector using UTK Face Dataset"
+            },
+            {
                 "name": "Selective Search Algorithm",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",

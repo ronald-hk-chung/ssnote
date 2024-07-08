@@ -121,13 +121,6 @@
                 "description": "Buidling InceptionV3 from scratch and train on CIFAR-100 classification"
             },
             {
-                "name": "Introduction to Transfer Learning",
-                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_cats_classification.ipynb",
-                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_cats_classification.ipynb",
-                "href": "#/computer_vision/dog_cats_classification.ipynb",
-                "description": "Building a simple transfer learning for Cats/Dogs Classification"
-            },
-            {
                 "name": "Dog Breed Identification with Transfer Learning",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_breed_identification.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/dog_breed_identification.ipynb",
@@ -140,6 +133,13 @@
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/utk_face_detection.ipynb",
                 "href": "#/computer_vision/utk_face_detection.ipynb",
                 "description": "Age, Gender and Race detector using UTK Face Dataset"
+            },
+            {
+                "name": "Generating Activation Map",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/activation_map.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/activation_map.ipynb",
+                "href": "#/computer_vision/activation_map.ipynb",
+                "description": "Dog Cat Classifier with activation map generation"
             },
             {
                 "name": "Selective Search Algorithm",

@@ -145,7 +145,7 @@
                 "name": "RCNN Object Detector",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/rcnn_object_detector.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/rcnn_object_detector.ipynb",
-                "href": "#/computer-vision/rcnn_object_detector.ipynb"
+                "href": "#/computer_vision/rcnn_object_detector.ipynb"
             },
             {
                 "name": "Fast RCNN",

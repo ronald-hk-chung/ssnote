@@ -142,10 +142,10 @@
                 "description": "Dog Cat Classifier with activation map generation"
             },
             {
-                "name": "Selective Search Algorithm",
-                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
-                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/selective_search.ipynb",
-                "href": "#/computer-vision/selective_search.ipynb"
+                "name": "RCNN Object Detector",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/rcnn_object_detector.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/rcnn_object_detector.ipynb",
+                "href": "#/computer-vision/rcnn_object_detector.ipynb"
             },
             {
                 "name": "Fast RCNN",

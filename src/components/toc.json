@@ -143,16 +143,17 @@
             },
             {
                 "name": "RCNN Object Detector",
+                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/fast_rcnn_object_detector.ipynb",
+                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/fast_rcnn_object_detector.ipynb",
+                "href": "#/computer_vision/fast_rcnn_object_detector.ipynb",
+                "description": "Fast RCNN for Object Detection"
+            },
+            {
+                "name": "Fast RCNN Object Detector",
                 "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer_vision/rcnn_object_detector.ipynb",
                 "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer_vision/rcnn_object_detector.ipynb",
                 "href": "#/computer_vision/rcnn_object_detector.ipynb",
                 "description": "Regional CNN for Object Detection"
-            },
-            {
-                "name": "Fast RCNN",
-                "github": "https://github.com/ronald-hk-chung/ssnotebook/blob/main/computer-vision/fast_rcnn.ipynb",
-                "colab": "https://colab.research.google.com/github/ronald-hk-chung/ssnotebook/blob/main/computer-vision/fast_rcnn.ipynb",
-                "href": "#/computer-vision/fast_rcnn.ipynb"
             },
             {
                 "name": "Faster RCNN",
